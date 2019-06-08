@@ -3,7 +3,8 @@ Well, a crud is “Create”, “Read”, “Update” and “Delete”.
 First of all you must have installed ruby 2.3, rails Installer and sqlite 3.
 Now, open cmd or powershell, and go where you want to save your project  and write the next code.
 rails new MyFirstApp
-img 1
+
+![Captura1](https://user-images.githubusercontent.com/51441319/59140155-ac78b100-895f-11e9-8c79-5dd2f8c1fc24.PNG)
 
 If everything is right you should to see something like that
 img 2
